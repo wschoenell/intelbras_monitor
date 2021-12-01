@@ -1,0 +1,73 @@
+1100,Emergência Médica
+1110,Disparo ou pânico de incêndio
+1120,Pânico audível ou silencioso
+1121,Senha de coação
+1122,Pânico silencioso
+1130,Disparo de zona
+1131,Disparo de cerca elétrica
+1133,Disparo de zona 24h
+1145,Tamper do teclado
+1146,Disparo silencioso
+1300,Sobrecarga na saída auxiliar
+1301,Falha na rede elétrica
+1302,Bateria principal baixa ou em curto-circuito
+1305,Reset pelo modo de programação
+1306,Alteração da programação do painel
+1311,Bateria principal ausente ou invertida
+1321,Corte ou curto-circuito na sirene
+1333,Problema em teclado ou receptor
+1351,Falha na linha telefônica
+1354,Falha ao comunicar evento
+1371,Corte da fiação dos sensores
+1372,Curto-circuito na fiação dos sensores
+1383,Tamper do sensor
+1384,Bateria baixa de sensor sem fio
+1401,Desativação pelo usuário
+1407,Desativação via computador ou telefone
+1410,Acesso remoto pelo software de download/upload
+1413,Falha no download
+1461,Senha incorreta
+1570,Anulação temporária de zona
+1573,Anulação por disparo
+1601,Teste manual
+1602,Teste periódico
+1616,Solicitação de manutenção
+1621,Reset do buffer de eventos
+1624,Log de eventos cheio
+1625,Data e hora foram reiniciadas
+3110,Restauração de incêndio
+3130,Restauração disparo de zona
+3131,Restauração de disparo de cerca elétrica
+3133,Restauração disparo de zona 24h
+3145,Restauração tamper do teclado
+3146,Restauração disparo silencioso
+3300,Restauração sobrecarga na saída auxiliar
+3301,Restauração falha na rede elétrica
+3302,Restauração bat. princ. baixa ou em curto-circuito
+3311,Restauração bat. princ. ausente ou invertida
+3321,Restauração corte ou curto-circuito na sirene
+3333,Restauração problema em teclado ou receptor
+3351,Restauração linha telefônica
+3371,Restauração corte da fiação dos sensores
+3372,Restauração curto-circuito na fiação dos sensores
+3383,Restauração tamper do sensor
+3384,Restauração bateria baixa de sensor sem fio
+3401,Ativação pelo usuário
+3403,Auto-ativação
+3407,Ativação via computador ou telefone
+3408,Ativação por uma tecla
+3456,Ativação parcial
+1255,Falha de comunic. com o Sist. de Monitoramento
+3255,Restaur. de comunic. com o Sist. de Monitoramento
+3252,Alteração da configuração do Sistema
+3253,Reset do Sistema
+1256,Desconexão do Cliente
+3256,Restauração da conexão do Cliente
+1999,Desconexão Cliente OFF LINE falha de KEEP ALIVE
+1147,Falha da supervisão Smart
+3999,Restauração Cliente OFF LINE falha de KEEP ALIVE
+3147,Restauração da supervisão Smart
+1403,Auto-desativação
+1422,Acionamento de PGM
+3422,Desacionamento de PGM
+1322,Toque de porteiro
